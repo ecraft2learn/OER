@@ -3,7 +3,7 @@
 <tbody>
 <tr>
 <td style="width: 310.422px;">
-<p>&nbsp;<img src="http://gdurl.com/nmk5" alt="" width="342" height="257" /></p>
+<p>&nbsp;<img src="https://github.com/ecraft2learn/OER/blob/master/DC%20motor/DC%20motor.jpg" alt="" width="342" height="257" /></p>
 </td>
 <td style="width: 502.578px;">
 <h3 style="text-align: justify;">A motor that converts direct current (e.g., from a battery) into motion. The most common&nbsp;types rely on the forces produced by magnetic fields</h3>
