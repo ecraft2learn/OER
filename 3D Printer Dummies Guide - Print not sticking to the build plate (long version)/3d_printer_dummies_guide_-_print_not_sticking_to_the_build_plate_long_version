@@ -1,10 +1,8 @@
 <p align="center"><strong>3D Printer Dummies Guide - Print not sticking to the build plate</strong></p>
 <p>From time to time you may encounter issues with the print not sticking to the build plate, or becoming unstuck part way through a print. If this happens follow the steps below to solve this problem. Try re-printing after each step until the problem is solved.</p>
 <p><strong>Step 1: Calibration</strong></p>
-<p>Check the calibration of the build plate by starting a print and observing how the first layer is printed. If the printer is calibrated correctly, the first layer of the print will be nicely pressed onto the glass plate with flat lines of filament and no gaps in between.&nbsp;</p>
-<p><img src="3d_printer_dummies_guide_-
-
-_print_not_sticking_to_the_build_plate_long_version_arquivos/image001.png" alt="" width="619" height="178" /><img src="https://github.com/ecraft2learn/OER/blob/master/3D%20Printer%20Dummies%20Guide%20-%20Print%20not%20sticking%20to%20the%20build%20plate%20(long%20version)/build%20plate.png?raw=true" alt="" width="388" height="106" /></p>
+<p>Check the calibration of the build plate by starting a print and observing how the first layer is printed. If the printer is calibrated correctly, the first layer of the print will be nicely pressed onto the glass plate with flat lines of filament and no gaps in between.</p>
+<p><img src="https://github.com/ecraft2learn/OER/blob/master/3D%20Printer%20Dummies%20Guide%20-%20Print%20not%20sticking%20to%20the%20build%20plate%20(long%20version)/build%20plate.png?raw=true" alt="" width="627" height="171" /></p>
 <p>If the first layer does not look like the image on the left, or the filament does not stick to the bed at all, first re-calibrate the printer, complete instructions can be found from Ultimaker:</p>
 <p>Ultimaker 2+: <a href="https://ultimaker.com/en/resources/146-
 
@@ -28,3 +26,4 @@ leveling">https://ultimaker.com/en/resources/18769-build-plate-leveling</a>&nbsp
 <p>If the print has a small contact area on the build plate, dcptrial the surface area of the print that is touching the build plate using Cura.</p>
 <p>First check to see if changing the orientation of the print by 90&deg; in one direction allows more of the print to be in contact with the build plate.</p>
 <p>If not, add build plate adhesion in Cura. Explanations and instructions can be found in the <u>Buildplate Adhesion Cura Video</u>.</p>
+<p><a href="https://github.com/ecraft2learn/OER/raw/master/3D%20Printer%20Dummies%20Guide%20-%20Print%20not%20sticking%20to%20the%20build%20plate%20(long%20version)/3D%20Printer%20Dummies%20Guide%20-%20Print%20not%20sticking%20to%20the%20build%20plate%20(long%20version).pdf"><button type="button">Click here</button></a>&nbsp;to download this file.&nbsp;</p>
